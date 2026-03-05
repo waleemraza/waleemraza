@@ -160,7 +160,7 @@ Developed a real-time blog application with user authentication and CRUD post ma
 | Certification | Provider | Date |
 |---|---|---|
 | web Development | Dr. Angela Yu | January 2025 |
-| Data Structures and Algorithms | February 2025 |
+| Data Structures and Algorithms |  | February 2025 |
 
 
 </div>
