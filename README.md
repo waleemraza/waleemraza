@@ -105,7 +105,7 @@ A scalable SaaS-based productivity platform that helps teams manage projects, au
 - Provide insights and performance metrics to improve team productivity.
 - Streamline project workflows with automated notifications and task updates.
 
-<!--[View Project](https://github.com) | [Live Demo](https://github.com) -->
+[View Project][(https://github.com)](https://github.com/waleemraza/Momentum-SAAS-) | [Live Demo][(https://github.com)](https://momentum-saas-nine.vercel.app)
 
 ---
 
@@ -121,7 +121,7 @@ and MongoDB-based data modeling for efficient tracking and reporting
 - Built a responsive UI using React.js and Tailwind CSS.
 - Used MongoDB with role-based access for secure data management.
 
-[View Project][(https://github.com)](https://github.com/waleemraza/Momentum-SAAS-) | [Live Demo][(https://github.com)](https://momentum-saas-nine.vercel.app)
+
 
 ---
 
