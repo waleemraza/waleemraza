@@ -110,7 +110,7 @@ A scalable SaaS-based productivity platform that helps teams manage projects, au
 
 ### 🛒  City Connect
 Developed a full-stack city project management platform with role-based access for  
-citizens and administrators, featuring RESTful APIs, responsive UI, dynamic routing, 
+citizens and administrators, featuring RESTful APIs, responsive UI, dynamic routing,
 and MongoDB-based data modeling for efficient tracking and reporting
 
 **Tech Stack:**  HTML | CSS | JavaScript | Express.js | React.js | MongoDB | Visual Studio | RESTful APIs | 
